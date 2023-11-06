@@ -3,16 +3,16 @@ Lending Club Case Study
 
 
 ## Table of Contents
-Problem Statement
-Objectives
-Dataset Analysis
-Approach
-Case Study Analysis
-Conclusions
-Technologies Used
-Acknowledgements
-Glossary
-Team
+1)Problem Statement
+2)Objectives
+3)Dataset Analysis
+4)Approach
+5)Case Study Analysis
+6)Conclusions
+7)Technologies Used
+8)Acknowledgements
+9)Glossary
+10)Team
 
 ## General Information
 Problem Statement
